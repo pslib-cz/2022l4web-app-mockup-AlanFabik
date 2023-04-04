@@ -1,5 +1,5 @@
 # Pixel Jungle
-Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky. Cílem hry je projít džunglí z počátečního bodu až na konečné políčko. Hráči mohou být vyzváni ke splnění různých úkolů a zkoumat různé oblasti džungle.
+Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky. Cílem hry je projít džunglí z počátečního bodu až na konečné políčko. Hráči mohou být vyzváni ke splnění různých úkolů a zkoumají různé oblasti džungle.
 
 ## Pravidla hry
 1. Každý hráč začíná na počátečním bodě a musí se dostat na konečné políčko pomocí kostky. Kostka může být naprogramována tak, aby měla různé počty stran a různé pravděpodobnosti výskytu jednotlivých čísel.
