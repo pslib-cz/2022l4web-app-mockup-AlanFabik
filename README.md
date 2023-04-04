@@ -7,7 +7,7 @@ Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky.
 3. Na hrací ploše se vyskytují hadi a liány
 - Hadi vracejí hráče podle své trajektorie zpět
 - Liány posouvají hráče podle své trajektorie dopředu
-5. Hráči mouhou při své cestě narazit na další různá zvířata, která jim mohou pomoci, nebo naopak uškodit.
+5. Hráči mouhou při své cestě narazit na další různá zvířata, která jim mohou pomoci, nebo naopak uškodit. Tyto zvířata se vždy spawnují náhodně při nové hře.
 - Krokodýl - hráč se vrátí o 5 políček zpět
 - Tygr - hráče se posune o 3 políčka dopředu
 - Opice - hráč se vrátí zpátky na start
