@@ -17,4 +17,5 @@ Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky.
 7. Hráč, který se jako první dostane na konečné políčko, vyhrává hru.
 
 ## Návrh hrací plochy
+
 ![Návrh](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/n%C3%A1vrh-hrac%C3%AD-plocha.jpg)
