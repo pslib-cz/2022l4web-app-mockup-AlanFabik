@@ -6,7 +6,7 @@ Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky.
 ![Preview](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/preview-hry.jpg)
 
 ## Pravidla hry
-1. Každý hráč začíná na počátečním bodě a musí se dostat na konečné políčko pomocí kostky (losování). Losování se vyskytuje v pravém spodním rohu a vždy náhodně vybere číslo od 1-6, o které se hráč posunu.
+1. Každý hráč začíná na počátečním bodě a musí se dostat na konečné políčko pomocí kostky (losování). Losování se vyskytuje v pravém spodním rohu a vždy náhodně vybere číslo od 1-6, o které se hráč posune.
 2. Na cestě hráči mohou narazit na různé překážky, jako jsou propasti nebo řeky, které jim brání v postupu. Aby se těmto překážkám vyhnuli, musí na dném políčku (otazník) splnit úkol, který se objeví na obrazovce (hádanka, vypočítání příkladu, doplnění do věty)
 3. Na hrací ploše se vyskytují hadi a liány
 - Hadi vracejí hráče podle své trajektorie zpět
