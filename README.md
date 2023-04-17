@@ -26,6 +26,17 @@ Pixel Jungle je počítačová hra inspirovaná deskovou hrou Hadi a žebříky.
 
 ![Plocha](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/hrac%C3%AD-plocha.jpg)
 
+### Postavy
+
+![Postava-1](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/postava-1.png)
+![Postava-2](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/postava-2.png)
+
+### Assets
+
+![Platforma](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/platforma.png)
+![Otazník](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/otazn%C3%ADk.png)
+![Liány](https://github.com/pslib-cz/2022l4web-app-mockup-AlanFabik/blob/main/li%C3%A1ny.png)
+
 ## Nápady pro vylepšení
 1. Hráči mouhou při své cestě narazit na další různá zvířata, která jim mohou pomoci, nebo naopak uškodit. Tyto zvířata se vždy spawnují náhodně při nové hře.
 - Krokodýl - hráč se vrátí o 5 políček zpět
